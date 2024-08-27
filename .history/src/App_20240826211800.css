@@ -1,0 +1,13 @@
+@font-face {
+               font-family:font1 ;
+               src: url("./assets/Fontspring-DEMO-rocgroteskcomp-regular.otf");
+}
+
+.f1{
+               font-family: font1;
+}
+
+.item>p{
+               padding: 6px 12px;         
+               
+}
